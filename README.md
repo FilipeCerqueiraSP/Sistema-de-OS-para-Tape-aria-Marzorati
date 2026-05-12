@@ -5,6 +5,6 @@ O projeto cria páginas de administração básica do negócio, com janelas para
 
 Foi criado também um instalador, amigável para leigos, que instala o programa, cria o atalho na área de trabalho, instala o postgre e cria e conecta o banco de dados. Deixando tudo pronto para o usuário final.
 
-Na pasta você vê, os scripts do banco, o script que realiza a instalação via comandos CMD, o instalador do postgre e o executável do programa em si.
+Na pasta você vê, os scripts do banco, o script que realiza a instalação via comandos CMD e o executável do programa em si. (OBS. Não consegui subir o instalador do postgre pro github, a versão utlizada no projeto é a 18.6.1, se não encontrar na web, baixe do meu drive através desse link: https://drive.google.com/file/d/1SrKNnnKlqJsG_RW-M-rXyAefiwLdrBl7/view?usp=drive_link)
 
 Sei que é simples, mas pode vir a ser algo, ou ser útil para alguém, licença livre, em caso de dúvidas estarei a disposição.
